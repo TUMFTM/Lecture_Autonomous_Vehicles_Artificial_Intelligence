@@ -1,5 +1,5 @@
-# Artificial Intelligence in Automotive Technology
-This is the Github repository of the TUM course on "[Artificial Intelligence in Automotive Technology](https://www.mos.ed.tum.de/en/ftm/teaching/courses/kuenstliche-intelligenz-in-der-fahrzeugtechnik/)" from the Institute of Automotive Technology of the Technical University of Munich.
+# Autonomous Vehicles: Artificial Intelligence
+This is the Github repository of the TUM course on "[Autonomous Vehicles: Artificial Intelligence](https://www.mos.ed.tum.de/en/ftm/teaching/courses/kuenstliche-intelligenz-in-der-fahrzeugtechnik/)" from the Institute of Automotive Technology of the Technical University of Munich.
 
 In this repository, we will upload the practice session material that belongs to each of the lectures that will teach you the foundations of Artificial Intelligence with regard to its use in automotive technology. Besides the lecture material that you can find on our main course website, we will upload coding examples, which we are using in the practice session of each lecture.
 
